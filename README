@@ -1,0 +1,27 @@
+This original application is developed with Spring as GUI and SqlLite is used to save the data.
+
+Now I want to migrate that application to use Neo4J.
+
+I want to see if its possible to migrate a RDBMS based application to Neo4J(Graph DB).
+
+If any one want to contribute to this they are very welcome. 
+But please note that, try to modify only file under 'com.neo.nrk.persistence' 
+since the main goal is to minimal change in the presentation or model. 
+
+You may find unoptimized code, but don't care about it. If you want you can change for yourself and start working.  
+
+Since the architecture of both systems varies a lot, I want to find how easy for a java and sql developer to switch
+to a new syntax of accessing database.
+
+
+I am not sure if I am going to use Cypher or Spring-Neo4j or hibernate OGM.
+
+But what ever I would like to evaluate all of them.
+
+
+I am not responsible for any kind of issues or problems caused with you while working or using this application.
+You are at your own risk. 
+
+Don't worry there is nothing wrong with the code as far as I know. If you find please let me know.
+
+Kalyan  
